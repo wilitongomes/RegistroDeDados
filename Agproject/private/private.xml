@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletAlterar.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/ContatoExisteException.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/UsuarioDAOImpl.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletCadastrar.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/Contato.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/agenda.jsp</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletNovo.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/cadastrar.jsp</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/Usuario.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletIndex.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletLogin.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/ContatoDAOImpl.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletRemover.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/novo.jsp</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/Util.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ConnectionFactory.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/FiltroAutenticacao.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/alterar.jsp</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletAgenda.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/UsuarioExisteException.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Controller/ServletLogout.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/ContatoNaoExisteException.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/src/java/Model/ContatoDAO.java</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/css/estilos.css</file>
+            <file>file:/C:/Users/Will/Downloads/agenda_jsp-master/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
